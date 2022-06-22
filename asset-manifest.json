@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/expense-form/static/css/main.8d740bc6.chunk.css",
-    "main.js": "/expense-form/static/js/main.49f5f6ec.chunk.js",
-    "main.js.map": "/expense-form/static/js/main.49f5f6ec.chunk.js.map",
-    "runtime-main.js": "/expense-form/static/js/runtime-main.a96151d4.js",
-    "runtime-main.js.map": "/expense-form/static/js/runtime-main.a96151d4.js.map",
-    "static/js/2.97741df2.chunk.js": "/expense-form/static/js/2.97741df2.chunk.js",
-    "static/js/2.97741df2.chunk.js.map": "/expense-form/static/js/2.97741df2.chunk.js.map",
+    "main.js": "/expense-form/static/js/main.2cb5b77f.chunk.js",
+    "main.js.map": "/expense-form/static/js/main.2cb5b77f.chunk.js.map",
+    "runtime-main.js": "/expense-form/static/js/runtime-main.91d3d73b.js",
+    "runtime-main.js.map": "/expense-form/static/js/runtime-main.91d3d73b.js.map",
+    "static/js/2.dc0534ba.chunk.js": "/expense-form/static/js/2.dc0534ba.chunk.js",
+    "static/js/2.dc0534ba.chunk.js.map": "/expense-form/static/js/2.dc0534ba.chunk.js.map",
     "index.html": "/expense-form/index.html",
     "static/css/main.8d740bc6.chunk.css.map": "/expense-form/static/css/main.8d740bc6.chunk.css.map",
-    "static/js/2.97741df2.chunk.js.LICENSE.txt": "/expense-form/static/js/2.97741df2.chunk.js.LICENSE.txt"
+    "static/js/2.dc0534ba.chunk.js.LICENSE.txt": "/expense-form/static/js/2.dc0534ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a96151d4.js",
-    "static/js/2.97741df2.chunk.js",
+    "static/js/runtime-main.91d3d73b.js",
+    "static/js/2.dc0534ba.chunk.js",
     "static/css/main.8d740bc6.chunk.css",
-    "static/js/main.49f5f6ec.chunk.js"
+    "static/js/main.2cb5b77f.chunk.js"
   ]
 }
