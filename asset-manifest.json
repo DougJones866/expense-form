@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/expense-form/static/css/main.ad7e0e17.chunk.css",
-    "main.js": "/expense-form/static/js/main.ddb0bcbd.chunk.js",
-    "main.js.map": "/expense-form/static/js/main.ddb0bcbd.chunk.js.map",
+    "main.js": "/expense-form/static/js/main.bea50faf.chunk.js",
+    "main.js.map": "/expense-form/static/js/main.bea50faf.chunk.js.map",
     "runtime-main.js": "/expense-form/static/js/runtime-main.91d3d73b.js",
     "runtime-main.js.map": "/expense-form/static/js/runtime-main.91d3d73b.js.map",
     "static/js/2.98c6fd05.chunk.js": "/expense-form/static/js/2.98c6fd05.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.91d3d73b.js",
     "static/js/2.98c6fd05.chunk.js",
     "static/css/main.ad7e0e17.chunk.css",
-    "static/js/main.ddb0bcbd.chunk.js"
+    "static/js/main.bea50faf.chunk.js"
   ]
 }
